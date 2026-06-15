@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cicatrices de plata en alma
+
+This log tracks the cryptographic history and versioning for the song **Cicatrices de plata en alma** (cicatrices-de-plata-en-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T20:45:38.815484 | `v1` | `ec15a7239881e6006afe6349a328a55d6483e7df68c4a01c05bfa1e70273639a` | `5a30be6063084ebbb638f28e8a7c8106569e2e2f10550455fb50dc1b5be7382b` | `2026-06-15_cicatrices-de-plata-en-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
