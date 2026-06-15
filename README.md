@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-de-plata-en-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cicatrices de plata en alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-en-alma/) |
+| **Get License** | [Request Licensing for Cicatrices de plata en alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-plata-en-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Qué chulería la tuya, la noche no tiene fin
+> Bajo las luces de la disco, nena, te quiero pa' mí
+> Esa mirada salvaje es toda mi tentación
+> Tú y yo perdiendo los frenos, perdiendo la razón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
